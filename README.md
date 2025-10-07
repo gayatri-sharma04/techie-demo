@@ -1,2 +1,3 @@
 # techie-demo
 This is my first Git Repository
+Author- Gayatri Sharma
